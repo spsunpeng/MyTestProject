@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitTest/GitTest.iml" filepath="$PROJECT_DIR$/GitTest/GitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Junit/Junit.iml" filepath="$PROJECT_DIR$/Junit/Junit.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaTest.iml" filepath="$PROJECT_DIR$/javaTest.iml" />
     </modules>
